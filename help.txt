@@ -1,0 +1,5 @@
+cd %HomePath%\Desktop\djangogirls
+myvenv\Scripts\activate
+py manage.py runserver
+
+
